@@ -1,0 +1,15 @@
+env: dev
+server:
+  port: 8080
+  log_requests: true
+#this information must be in a vault or environment variables
+database:
+  host: db_mysql:3036
+  pass: root
+  user: root
+  name: challenge
+cache:
+  host: redis-server
+  port: 6379
+  user: ''
+  password: ''

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af73a9cb-f056-4c71-a07e-f530dc32c0a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cmd/web/config/env_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/web/config/env_live.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/not_found_exception.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1sky7Kw8Cl5mgnSCzCK5cCPSnQz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucia\Documents\Programming\go\src\github.com\wallet-api" />
+      <recent name="C:\Users\lucia\Documents\Programming\go\src\github.com\wallet-api\exceptions" />
+      <recent name="C:\Users\lucia\Documents\Programming\go\src\github.com\wallet-api\infrastructure" />
+      <recent name="C:\Users\lucia\Documents\Programming\go\src\github.com\wallet-api\cmd\web\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucia\Documents\Programming\go\src\github.com\wallet-api\cmd\web\models" />
+      <recent name="C:\Users\lucia\Documents\Programming\go\src\github.com\wallet-api\cmd\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test wallet-api">
+    <configuration name="go build github.com/wallet-api/cmd/web" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="wallet-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/wallet-api" />
+      <directory value="$PROJECT_DIR$/cmd/web" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTransactionRepository_GetWallet in github.com/wallet-api/cmd/web/repositories" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wallet-api" />
+      <working_directory value="$PROJECT_DIR$/cmd/web/repositories" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wallet-api/cmd/web/repositories" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestTransactionRepository_GetWallet\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTransactionRepository_UpdateWallet in github.com/wallet-api/cmd/web/repositories" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wallet-api" />
+      <working_directory value="$PROJECT_DIR$/cmd/web/repositories" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wallet-api/cmd/web/repositories" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestTransactionRepository_UpdateWallet\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTransactionService_Credit in github.com/wallet-api/cmd/web/services" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wallet-api" />
+      <working_directory value="$PROJECT_DIR$/cmd/web/services" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wallet-api/cmd/web/services" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestTransactionService_Credit\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTransactionService_Debit in github.com/wallet-api/cmd/web/services" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wallet-api" />
+      <working_directory value="$PROJECT_DIR$/cmd/web/services" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wallet-api/cmd/web/services" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestTransactionService_Debit\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test wallet-api" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="wallet-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/wallet-api" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build github.com/wallet-api/cmd/web" />
+      <item itemvalue="Go Test.TestTransactionService_Debit in github.com/wallet-api/cmd/web/services" />
+      <item itemvalue="Go Test.TestTransactionService_Credit in github.com/wallet-api/cmd/web/services" />
+      <item itemvalue="Go Test.TestTransactionRepository_GetWallet in github.com/wallet-api/cmd/web/repositories" />
+      <item itemvalue="Go Test.TestTransactionRepository_UpdateWallet in github.com/wallet-api/cmd/web/repositories" />
+      <item itemvalue="Go Test.go test wallet-api" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test wallet-api" />
+        <item itemvalue="Go Test.TestTransactionRepository_GetWallet in github.com/wallet-api/cmd/web/repositories" />
+        <item itemvalue="Go Test.TestTransactionRepository_UpdateWallet in github.com/wallet-api/cmd/web/repositories" />
+        <item itemvalue="Go Test.TestTransactionService_Credit in github.com/wallet-api/cmd/web/services" />
+        <item itemvalue="Go Test.TestTransactionService_Debit in github.com/wallet-api/cmd/web/services" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/web/services/transaction.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/web/services/transaction.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/web/services/transaction.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/web/services/transaction_test.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/web/repositories/transaction_test.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/web/repositories/transaction.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
